@@ -6,7 +6,7 @@ I love coding, especially in JavaScript. However, I love learning new things con
 
 Please feel free to give me your comments and recomendations. I really try to improve and I'm willing to share what I know with you. 
 
-- 🌱 I’m currently learning NodeJS 
+- 🌱 I’m currently learning Java☕ 
 - 📫 How to reach me: romansantillan1998@outlook.com 
 - 👨‍💻 Where to see my projects: <a href="https://sauloromansantillannava.netlify.com/">https://sauloromansantillannava.netlify.com/</a>
 
